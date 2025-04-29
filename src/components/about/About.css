@@ -1,0 +1,18 @@
+.about_myimg{
+    height: 69%;
+    width: 75%;
+    margin-top: 13%;
+    margin-left: 11%;
+    /* background-image: url("../../Assets/bg1.png"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: revert;
+    background-size: cover;
+}
+.about_container{
+   
+        height: 460px;
+        background: rgb(255,255,255);
+        background: linear-gradient(90deg, rgba(241,255,2,1) 21% , rgba(255,255,255,1) 60%, rgba(255,255,255,1) 100%)
+    
+}
