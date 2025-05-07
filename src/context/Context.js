@@ -1,6 +1,5 @@
-import { useTheme } from '@emotion/react'
-import { useMediaQuery } from '@mui/system'
-import React, { createContext, useState } from 'react'
+
+import React, { createContext} from 'react'
 export const Allfunction = createContext(null)
 
 const Contextfunction = ({ children }) => {

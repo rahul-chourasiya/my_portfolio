@@ -58,7 +58,7 @@ const Contactus = () => {
                             />
 
                             <Button
-                                sx={{ width: "30%", fontSize: "12px ", height: "40px" }}
+                                sx={{ width: "30%", fontSize: "12px ", height: "40px",backgroundColor:"#FFC107" }}
                                 variant="contained"
                                 color="primary"
                                 type="submit"
@@ -86,9 +86,9 @@ const Contactus = () => {
                             src={bg1}
                             alt="//"
                             style={{
-                                height: "69 %",
+                                height: "80%",
                                 width: "75%",
-                                marginTop: "13%",
+                                marginTop: "5%",
                                 marginLeft: "11%",
                                 backgroundPosition: "center",
                                 backgroundRepeat: "no-repeat",

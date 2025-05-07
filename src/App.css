@@ -13,11 +13,6 @@
 
 @media screen and (max-width:1028px) {
 
-  /* .home_container{
-    height: 500px !important;
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 21%, rgba(255,255,255,1) 30%, rgba(241,255,2,1) 100%);
-  } */
   .about_myimg{
     height: 50% !important;
     width: 63% !important;
@@ -35,30 +30,18 @@
 }
 
 @media screen and (max-width:770px) {
-  /* .home_container{
-    height: auto;
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 21%, rgba(255,255,255,1) 30%, rgba(241,255,2,1) 100%);
-  } */
+
 }
 @media screen and (max-width:930px) {
 
-  /* .home_container{
-    height: auto !important;
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 21%, rgba(255,255,255,1) 30%, rgba(241,255,2,1) 100%);
-  } */
+
   .button_contect{
     width: 30% !important;
   }
 }
 @media screen and (max-width:451px) {
 
-  /* .home_container{
-    height: 510px !important;
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 21%, rgba(255,255,255,1) 30%, rgba(241,255,2,1) 100%);
-  } */
+
   .button_contect{
     width: 40% !important;
     font-size: 10px !important;

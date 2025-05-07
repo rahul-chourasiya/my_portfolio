@@ -17,6 +17,7 @@ import Contectus from '../contact/Contact'
 import Footer from "../../Footer/Footer";
 import { MovingComponent } from "react-moving-text"
 import {motion} from 'framer-motion'
+import ResumeSection from "../ResumeSection/ResumeSection";
 
 
 const Home = () => {
@@ -237,6 +238,7 @@ const Home = () => {
       <About />
       <Project />
       <Contectus />
+      <ResumeSection/>
       <Divider />
       <Footer />
     </Box>
